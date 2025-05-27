@@ -26,6 +26,7 @@ class AhmedAdel {
     "Python, Java, C++",
     "GitHub & Copilot",
     "Arabic Content Creation"
+    "Simplify Code"
   ];
 }
 ```
