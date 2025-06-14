@@ -32,7 +32,7 @@ class AhmedAdel {
 ```
 ## 🔥 Highlights
 
-- 🔥 Built a YouTube channel with **230K+ subscribers**
+- 🔥 Built a YouTube channel with **240K+ subscribers**
 - 👨‍🏫 Teaching programming in **simple Arabic** — clear, visual, and practical
 - 📚 Founder of [learrnsimply.com](https://learrnsimply.com) – an Arabic-first coding school
 - 🧩 Building **reusable Flutter components**, animations & UI kits
