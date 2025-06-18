@@ -48,7 +48,7 @@ class AhmedAdel {
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ahmedlearnSimply&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
